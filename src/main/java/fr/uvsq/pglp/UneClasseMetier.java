@@ -1,17 +1,19 @@
 package fr.uvsq.pglp;
 
+import java.time.LocalDateTime;
+
 /**
  * Classe metier
  */
-public class UneClasseMetier {
+public class UneClasseMetier extends Time {
     //instanciation de TimeProvider
     private final TimeProvider temps;
 
     /**
      *
      */
-    UneClasseMetier() {
-        this.temps = null;
+    UneClasseMetier(TimeProvider timeProvider) {
+        this.temps = timeProvider;
     }
 
     /**
