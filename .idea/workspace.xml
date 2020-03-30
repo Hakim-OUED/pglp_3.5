@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c53b19-d6ab-4f65-bd0d-feb2ba33c067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/uvsq/pglp/UneClasseMetier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/uvsq/pglp/UneClasseMetier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583593475165</updated>
       <workItem from="1583593479138" duration="7028000" />
-      <workItem from="1584701015280" duration="3571000" />
+      <workItem from="1584701015280" duration="4363000" />
+      <workItem from="1585605796803" duration="81000" />
     </task>
     <servers />
   </component>
@@ -80,22 +83,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583622183942" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584705225335">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584706126599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584705225335" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584705225335">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584706126599" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584706126599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584705225335" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584705225335">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584706126599" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584706126599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584705225335" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584705225335">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584706126599" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584706126599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584705225335" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584706126599" />
     <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584701128612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
